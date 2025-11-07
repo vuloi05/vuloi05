@@ -4,6 +4,8 @@ I am a passionate programmer who loves to learn and develop myself, especially i
 
 ![vuloi05's Stats](https://github-readme-stats.vercel.app/api?username=vuloi05&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -29,8 +31,6 @@ I am a passionate programmer who loves to learn and develop myself, especially i
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,spring,react)](https://skillicons.dev)
-
 ## 🚀 Featured Projects
 <a href="https://github.com/vuloi05/Household-Registration-Management-System">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -40,6 +40,8 @@ I am a passionate programmer who loves to learn and develop myself, especially i
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuloi05&repo=Dungeon-Crawler-master-master&theme=radical" />
 </a>    
+
+---
 
 ## 📫 Contact
 <a href="https://www.facebook.com/ro.i.90574" target="_blank">
