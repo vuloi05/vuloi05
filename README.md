@@ -43,6 +43,12 @@ I am a passionate programmer who loves to learn and develop myself, especially i
 
 ---
 
+<a href="https://leetcode.com/vuloi05/">
+  <img align="center" src="https://leetcard.jacoblin.cool/vuloi05" />
+</a>
+
+---
+
 ## 📫 Contact
 <a href="https://www.facebook.com/ro.i.90574" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
