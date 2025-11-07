@@ -14,16 +14,17 @@ Mục tiêu của tôi là được làm việc và phát triển sự nghiệp 
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,spring,react)](https://skillicons.dev)
 
 ## 🚀 Dự án nổi bật
-
-<a href="https://github.com/vuloi05/Household-Registration-Management-System">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuloi05&repo=Household-Registration-Management-System&theme=radical" />
-</a>
-<br>
-<a href="https://github.com/vuloi05/Dungeon-Crawler-master-master">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuloi05&repo=Dungeon-Crawler-master-master&theme=radical" />
-</a>    
+<div align="center">
+    <a href="https://github.com/vuloi05/Household-Registration-Management-System">
+      <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuloi05&repo=Household-Registration-Management-System&theme=radical" />
+    </a>
+    <br>
+    <a href="https://github.com/vuloi05/Dungeon-Crawler-master-master">
+      <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuloi05&repo=Dungeon-Crawler-master-master&theme=radical" />
+    </a>
+</div>    
 
 ## 📫 Liên hệ
 <div align="center">
