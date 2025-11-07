@@ -34,7 +34,7 @@ I am a passionate programmer who loves to learn and develop myself, especially i
 ## 🚀 Featured Projects
 <a href="https://github.com/vuloi05/Household-Registration-Management-System">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https.://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuloi05&repo=Household-Registration-Management-System&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuloi05&repo=Household-Registration-Management-System&theme=radical" />
 </a>
 <a href="https://github.com/vuloi05/Dungeon-Crawler-master-master">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
