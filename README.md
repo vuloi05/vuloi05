@@ -14,24 +14,20 @@ Mục tiêu của tôi là được làm việc và phát triển sự nghiệp 
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,spring,react)](https://skillicons.dev)
 
 ## 🚀 Dự án nổi bật
-<div align="center">
-    <a href="https://github.com/vuloi05/Household-Registration-Management-System">
-      <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuloi05&repo=Household-Registration-Management-System&theme=radical" />
-    </a>
-    <br>
-    <a href="https://github.com/vuloi05/Dungeon-Crawler-master-master">
-      <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuloi05&repo=Dungeon-Crawler-master-master&theme=radical" />
-    </a>
-</div>    
+<a href="https://github.com/vuloi05/Household-Registration-Management-System">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuloi05&repo=Household-Registration-Management-System&theme=radical" />
+</a>
+<br>
+<a href="https://github.com/vuloi05/Dungeon-Crawler-master-master">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuloi05&repo=Dungeon-Crawler-master-master&theme=radical" />
+</a>    
 
 ## 📫 Liên hệ
-<div align="center">
-    <a href="https://www.facebook.com/ro.i.90574" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
-    </a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=loivtcris7@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-</div>
+<a href="https://www.facebook.com/ro.i.90574" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=loivtcris7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
