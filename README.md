@@ -2,16 +2,6 @@
 # I'm Vu Tien Loi! 👋
 
 I am a passionate programmer who loves to learn and develop myself, especially in the field of web development. I am always looking for new knowledge and ready to face challenges to create quality products.
----
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); 
-               border-radius: 10px; 
-               padding: 20px; 
-               text-align: center; 
-               color: white; 
-               font-family: 'Comic Sans MS', cursive; 
-               font-size: 36px;">
-     👋 Hello World, I'm ロイ！
-   </div>
 
 ---
 
