@@ -2,7 +2,6 @@
 
 I am a passionate programmer who loves to learn and develop myself, especially in the field of web development. I am always looking for new knowledge and ready to face challenges to create quality products.
 
-![vuloi05's Stats](https://github-readme-stats.vercel.app/api?username=vuloi05&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
@@ -42,6 +41,8 @@ I am a passionate programmer who loves to learn and develop myself, especially i
 </a>    
 
 ---
+
+![vuloi05's Stats](https://github-readme-stats.vercel.app/api?username=vuloi05&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <a href="https://leetcode.com/vuloi05/">
   <img align="center" src="https://leetcard.jacoblin.cool/vuloi05" />
