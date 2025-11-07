@@ -28,6 +28,12 @@ I am a passionate programmer who loves to learn and develop myself, especially i
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
 
+
+<a href="https://leetcode.com/vuloi05/">
+  <img align="center" src="https://leetcard.jacoblin.cool/vuloi05" />
+</a>
+
+
 ---
 
 ## 🚀 Featured Projects
@@ -39,14 +45,6 @@ I am a passionate programmer who loves to learn and develop myself, especially i
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuloi05&repo=Dungeon-Crawler-master-master&theme=radical" />
 </a>    
-
----
-
-![vuloi05's Stats](https://github-readme-stats.vercel.app/api?username=vuloi05&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-<a href="https://leetcode.com/vuloi05/">
-  <img align="center" src="https://leetcard.jacoblin.cool/vuloi05" />
-</a>
 
 ---
 
