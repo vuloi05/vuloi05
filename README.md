@@ -26,7 +26,11 @@ Mục tiêu của tôi là được làm việc và phát triển sự nghiệp 
 </a>    
 
 ## 📫 Liên hệ
-
-- **Facebook:** [Vũ Tiến Lợi](https://www.facebook.com/ro.i.90574)
-
-Cảm ơn bạn đã ghé thăm! Hãy kết nối và cùng nhau khám phá thế giới công nghệ. 🚀
+<div align="center">
+    <a href="https://www.facebook.com/ro.i.90574" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+    </a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=loivtcris7@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+</div>
