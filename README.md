@@ -15,13 +15,14 @@ Mục tiêu của tôi là được làm việc và phát triển sự nghiệp 
 
 ## 🚀 Dự án nổi bật
 
-### [Dungeon-Crawler](https://github.com/vuloi05/Dungeon-Crawler-master-master)
-- **Mô tả:** Một trò chơi nhỏ bằng Java miêu tả về hiệp sĩ tìm cách thoát khỏi hầm ngục.
-- **Công nghệ:** `Java`
-
-### [Hệ thống quản lý hộ khẩu](https://github.com/vuloi05/Household-Registration-Management-System)
-- **Mô tả:** Dự án phần mềm quản lý thông tin khu dân cư / tổ dân phố, giúp Ban quản lý thực hiện các nghiệp vụ quản lý nhân khẩu, hộ khẩu, và các công tác đoàn thể khác một cách hiệu quả.
-- **Công nghệ:** `TypeScript`, `Java`, `Python`, `Shell`, `JavaScript`, `CSS`
+<a href="https://github.com/vuloi05/Household-Registration-Management-System">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" />
+</a>    
+<a href="https://github.com/vuloi05/Dungeon-Crawler-master-master">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" />
+</a>    
 
 ## 📫 Liên hệ
 
